@@ -1,0 +1,512 @@
+# Microsoft Developer Studio Generated Dependency File, included by game.mak
+
+.\q2cam\camclient.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q2cam\camclient.h"\
+	".\q_shared.h"\
+	
+
+.\chicken\ctc.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\frames.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	".\StdLog\gslog.h"\
+	".\StdLog\stdlog.h"\
+	
+
+.\g_ai.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_cmds.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_player.h"\
+	".\q2cam\camclient.h"\
+	".\q_shared.h"\
+	
+
+.\g_combat.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q2cam\camclient.h"\
+	".\q_shared.h"\
+	
+
+.\g_func.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_items.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_main.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q2cam\camclient.h"\
+	".\q_shared.h"\
+	".\StdLog\gslog.h"\
+	".\StdLog\stdlog.h"\
+	
+
+.\g_misc.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_monster.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_phys.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_save.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_spawn.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	".\StdLog\gslog.h"\
+	".\StdLog\stdlog.h"\
+	
+
+.\g_svcmds.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_target.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_trigger.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_turret.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_utils.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\g_weapon.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\StdLog\gslog.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	".\StdLog\stdlog.h"\
+	
+
+.\m_actor.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_actor.h"\
+	".\q_shared.h"\
+	
+
+.\m_berserk.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_berserk.h"\
+	".\q_shared.h"\
+	
+
+.\m_boss2.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_boss2.h"\
+	".\q_shared.h"\
+	
+
+.\m_boss3.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_boss32.h"\
+	".\q_shared.h"\
+	
+
+.\m_boss31.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_boss31.h"\
+	".\q_shared.h"\
+	
+
+.\m_boss32.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_boss32.h"\
+	".\q_shared.h"\
+	
+
+.\m_brain.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_brain.h"\
+	".\q_shared.h"\
+	
+
+.\m_chick.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_chick.h"\
+	".\q_shared.h"\
+	
+
+.\m_flash.c : \
+	".\q_shared.h"\
+	
+
+.\m_flipper.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_flipper.h"\
+	".\q_shared.h"\
+	
+
+.\m_float.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_float.h"\
+	".\q_shared.h"\
+	
+
+.\m_flyer.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_flyer.h"\
+	".\q_shared.h"\
+	
+
+.\m_gladiator.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_gladiator.h"\
+	".\q_shared.h"\
+	
+
+.\m_gunner.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_gunner.h"\
+	".\q_shared.h"\
+	
+
+.\m_hover.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_hover.h"\
+	".\q_shared.h"\
+	
+
+.\m_infantry.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_infantry.h"\
+	".\q_shared.h"\
+	
+
+.\m_insane.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_insane.h"\
+	".\q_shared.h"\
+	
+
+.\m_medic.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_medic.h"\
+	".\q_shared.h"\
+	
+
+.\m_move.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\m_mutant.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_mutant.h"\
+	".\q_shared.h"\
+	
+
+.\m_parasite.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_parasite.h"\
+	".\q_shared.h"\
+	
+
+.\m_soldier.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_soldier.h"\
+	".\q_shared.h"\
+	
+
+.\m_supertank.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_supertank.h"\
+	".\q_shared.h"\
+	
+
+.\m_tank.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_tank.h"\
+	".\q_shared.h"\
+	
+
+.\chicken\menu.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\p_client.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_player.h"\
+	".\q2cam\camclient.h"\
+	".\q_shared.h"\
+	".\StdLog\gslog.h"\
+	".\StdLog\stdlog.h"\
+	
+
+.\p_hud.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\p_trail.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	
+
+.\p_view.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_player.h"\
+	".\q_shared.h"\
+	
+
+.\p_weapon.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\m_player.h"\
+	".\q_shared.h"\
+	
+
+.\q_shared.c : \
+	".\q_shared.h"\
+	
+
+.\StdLog\stdlog.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	".\StdLog\stdlog.h"\
+	
+
+.\chicken\tctc.c : \
+	".\chicken\ctc.h"\
+	".\chicken\ctclocal.h"\
+	".\chicken\menu.h"\
+	".\g_local.h"\
+	".\game.h"\
+	".\q_shared.h"\
+	".\StdLog\gslog.h"\
+	".\StdLog\stdlog.h"\
+	
